@@ -1,5 +1,4 @@
-#  gameclub
-
+# gameclub
 
 ## サイト概要
 ### サイトテーマ
@@ -41,4 +40,13 @@
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
 - IDE：Cloud9
+
+
+
+
+
+
+
+
+
 
